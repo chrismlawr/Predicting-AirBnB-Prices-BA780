@@ -1,5 +1,5 @@
-# BA780-Team4A
-Repository for BA780 Team 4A
+# Predicting AirBnB Prices - BA780
+Repository for BA780 Team 4A's Project: Predicting AirBnB Prices
 
 This repository is for a team assignment from BA780, a class in the M.S. Business Analytics program at Boston University. The class introduces the toolbox for business analysts, covering topics like Python for Data Science, BigQuery SQL, & Google Cloud Computing, and learning how to pre-process data & conduct exploratory data analysis.
 
